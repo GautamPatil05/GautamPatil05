@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GautamPatil05
-- 👀 I’m interested in MERN Development
-- 🌱 I’m currently learning Java Development
+- 👀 I’m Learing MERN Stack Development
+- 🌱 I Love to solve the DSA problems on various coding platforms
 - 📫 Reach me on gmail - gautampatil.rcpit@gmail.com
 
 <!---
