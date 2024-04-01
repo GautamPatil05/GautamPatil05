@@ -68,3 +68,13 @@
 <img align="right" height="0" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gautampatil05/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/gautampatil05/gautampatil05/output/snake.svg" alt="Snake animation" />
+
+###
