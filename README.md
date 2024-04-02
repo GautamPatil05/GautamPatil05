@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gautam and I'm a Java & Web Developer.</h2>
+<h2 align="left">Hi 👋! My name is Gautam Patil and I'm a Java & Web Developer. I love to solve a DSA problems on various compatative coding platforms. </h2>
 
 ###
 
